@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "fields": {
+        "id": "1",
+        "brand": "Mini CLub",
+        "type": "boys solid t-shirt with pyjamas",
+        "price": "Rs. 314",
+        "image": {
+          "url": "./img/kidsItems/kids1.webp"
+        }
+      }
+    },
+    {
+      "fields": {
+        "id": "2",
+        "brand": "Instafab",
+        "type": "color blocked sweatshirt",
+        "price": "Rs. 699",
+        "image": {
+          "url": "./img/kidsItems/kids2.webp"
+        }
+      }
+    },
+    {
+      "fields": {
+        "id": "3",
+        "brand": "Lilpicks",
+        "type": "boys printed t-shirt with shorts",
+        "price": "Rs. 799",
+        "image": {
+          "url": "./img/kidsItems/kids3.webp"
+        }
+      }
+    },
+    {
+      "fields": {
+        "id": "4",
+        "brand": "lazy shark",
+        "type": "boys printed night suit",
+        "price": "Rs. 559",
+        "image": {
+          "url": "./img/kidsItems/kids4.webp"
+        }
+      }
+    },
+    {
+      "fields": {
+        "id": "5",
+        "brand": "yk justice league",
+        "type": "printed round neck t-shirt",
+        "price": "Rs. 359",
+        "image": {
+          "url": "./img/kidsItems/kids5.webp"
+        }
+      }
+    },
+    {
+      "fields": {
+        "id": "6",
+        "brand": "Allen Solley junior",
+        "type": "boys regular fit casual shirt",
+        "price": "Rs. 1299",
+        "image": {
+          "url": "./img/kidsItems/kids6.webp"
+        }
+      }
+    },
+    {
+      "fields": {
+        "id": "7",
+        "brand": "h&m",
+        "type": "boys 4-piece cotton shirt",
+        "price": "Rs. 2699",
+        "image": {
+          "url": "./img/kidsItems/kids7.webp"
+        }
+      }
+    },
+    {
+      "fields": {
+        "id": "8",
+        "brand": "urban scottish",
+        "type": "boys regular fit casual shirt",
+        "price": "Rs. 539",
+        "image": {
+          "url": "./img/kidsItems/kids8.webp"
+        }
+      }
+    },
+    {
+      "fields": {
+        "id": "9",
+        "brand": "urban scottish",
+        "type": "boys regular shirt",
+        "price": "Rs. 639",
+        "image": {
+          "url": "./img/kidsItems/kids1.webp"
+        }
+      }
+    }
+  ]
+}
